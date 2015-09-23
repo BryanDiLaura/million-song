@@ -1,0 +1,141 @@
+2015-07-17 08:50:38,642 :: Server :: DEBUG :: logger set up. starting the application...
+2015-07-17 08:50:38,643 :: Server :: DEBUG :: initializing the application
+2015-07-17 08:50:38,643 :: Server :: DEBUG :: server: hello world
+2015-07-17 08:54:37,116 :: Server :: DEBUG :: logger set up. starting the application...
+2015-07-17 08:54:37,117 :: Server :: DEBUG :: initializing the application
+2015-07-17 08:54:37,411 :: Server :: DEBUG :: logger set up. starting the application...
+2015-07-17 08:54:37,411 :: Server :: DEBUG :: logger set up. starting the application...
+2015-07-17 08:54:37,411 :: Server :: DEBUG :: initializing the application
+2015-07-17 08:54:37,411 :: Server :: DEBUG :: initializing the application
+2015-07-17 08:54:37,411 :: Server :: ERROR :: Couldn't get the guesser! Problem: name 'machine_learning' is not defined
+2015-07-17 08:54:37,411 :: Server :: ERROR :: Couldn't get the guesser! Problem: name 'machine_learning' is not defined
+2015-07-17 08:55:16,306 :: Server :: DEBUG :: logger set up. starting the application...
+2015-07-17 08:55:16,306 :: Server :: DEBUG :: initializing the application
+2015-07-17 08:55:16,605 :: Server :: DEBUG :: logger set up. starting the application...
+2015-07-17 08:55:16,605 :: Server :: DEBUG :: logger set up. starting the application...
+2015-07-17 08:55:16,605 :: Server :: DEBUG :: initializing the application
+2015-07-17 08:55:16,605 :: Server :: DEBUG :: initializing the application
+2015-07-17 08:55:56,090 :: Server :: DEBUG :: logger set up. starting the application...
+2015-07-17 08:55:56,090 :: Server :: DEBUG :: initializing the application
+2015-07-17 08:56:46,236 :: Server :: DEBUG :: logger set up. starting the application...
+2015-07-17 08:56:46,236 :: Server :: DEBUG :: initializing the application
+2015-07-20 08:42:04,267 :: Server :: DEBUG :: logger set up. starting the application...
+2015-07-20 08:42:04,280 :: Server :: DEBUG :: initializing the application
+2015-07-20 08:42:34,182 :: Server :: DEBUG :: logger set up. starting the application...
+2015-07-20 08:42:34,182 :: Server :: DEBUG :: initializing the application
+2015-07-20 08:43:25,282 :: Server :: DEBUG :: logger set up. starting the application...
+2015-07-20 08:43:25,283 :: Server :: DEBUG :: initializing the application
+2015-07-20 08:44:11,384 :: Server :: DEBUG :: logger set up. starting the application...
+2015-07-20 08:44:11,384 :: Server :: DEBUG :: initializing the application
+2015-07-20 08:45:30,482 :: Server :: DEBUG :: logger set up. starting the application...
+2015-07-20 08:45:30,482 :: Server :: DEBUG :: initializing the application
+2015-07-20 08:47:31,716 :: Server :: INFO :: Showing gameTurn for songid:SOAUNYK12AB01860D9
+2015-07-20 08:48:25,621 :: Server :: INFO :: Showing the round report
+2015-07-20 08:48:31,176 :: Server :: INFO :: Showing gameTurn for songid:SOCYTYU12A8C13EA94
+2015-07-20 08:48:50,316 :: Server :: INFO :: Showing the round report
+2015-07-20 08:48:55,417 :: Server :: INFO :: Showing gameTurn for songid:SOUSWBE12A679AE573
+2015-07-20 08:49:05,485 :: Server :: INFO :: Showing the round report
+2015-07-20 08:51:26,460 :: Server :: DEBUG :: logger set up. starting the application...
+2015-07-20 08:51:26,460 :: Server :: DEBUG :: initializing the application
+2015-07-20 08:51:34,431 :: Server :: INFO :: Showing gameTurn for songid:SOSOMWG12CF530D54E
+2015-07-20 08:51:41,347 :: Server :: INFO :: Showing the round report
+2015-07-20 08:52:35,330 :: Server :: INFO :: Showing gameTurn for songid:SOMHUTQ12AB018DEF1
+2015-07-20 08:52:53,943 :: Server :: INFO :: Showing the round report
+2015-07-20 08:54:36,612 :: Server :: INFO :: Showing gameTurn for songid:SOSCFFU12A8C134C67
+2015-07-20 08:54:47,734 :: Server :: INFO :: Showing the round report
+2015-07-20 08:54:50,595 :: Server :: INFO :: Showing gameTurn for songid:SOLOJYI12A8C13C49E
+2015-07-20 08:54:58,553 :: Server :: INFO :: Showing the round report
+2015-07-20 08:55:02,890 :: Server :: INFO :: Showing gameTurn for songid:SOVTGRO12AC4686C43
+2015-07-20 08:55:18,081 :: Server :: INFO :: Showing the round report
+2015-07-20 08:55:23,137 :: Server :: INFO :: Showing gameTurn for songid:SOQMIMZ12AB018B499
+2015-07-20 08:55:58,842 :: Server :: INFO :: Showing the round report
+2015-07-20 08:56:07,477 :: Server :: INFO :: Showing gameTurn for songid:SOYDWJC12AB017D699
+2015-07-20 08:56:56,920 :: Server :: INFO :: Showing the round report
+2015-07-20 08:57:46,225 :: Server :: INFO :: Showing gameTurn for songid:SOLGYJO12A6BD55664
+2015-07-20 08:57:56,668 :: Server :: INFO :: Showing the round report
+2015-07-20 08:58:45,335 :: Server :: INFO :: Showing gameTurn for songid:SOZZIKV12AB017F17B
+2015-07-20 08:58:46,643 :: Server :: INFO :: There was a request with a null guess. Redirecting...
+2015-07-20 08:58:49,199 :: Server :: INFO :: Showing gameTurn for songid:SOPZKAF12A8C140A6A
+2015-07-20 08:58:57,841 :: Server :: INFO :: Showing the round report
+2015-07-20 08:59:39,660 :: Server :: INFO :: Showing gameTurn for songid:SOPFOHF12A6D4F6538
+2015-07-20 08:59:54,178 :: Server :: INFO :: Showing the round report
+2015-07-20 09:00:47,149 :: Server :: DEBUG :: logger set up. starting the application...
+2015-07-20 09:00:47,149 :: Server :: DEBUG :: initializing the application
+2015-07-20 09:01:08,461 :: Server :: INFO :: Showing gameTurn for songid:SOAVMSM12AB017CC5C
+2015-07-20 09:01:20,653 :: Server :: INFO :: Showing the round report
+2015-07-20 09:01:42,217 :: Server :: INFO :: Showing gameTurn for songid:SOCCIRN12AB018A7FE
+2015-07-20 09:01:53,098 :: Server :: INFO :: Showing the round report
+2015-07-20 09:01:59,762 :: Server :: INFO :: Showing gameTurn for songid:SOBKGSR12AB0184A57
+2015-07-20 09:02:15,744 :: Server :: INFO :: Showing the round report
+2015-07-20 09:02:21,012 :: Server :: INFO :: Showing gameTurn for songid:SOAXMZC12A6D4F67A6
+2015-07-20 09:02:31,079 :: Server :: INFO :: Showing the round report
+2015-07-20 09:02:35,183 :: Server :: INFO :: Showing gameTurn for songid:SOSBYVZ12A6D4FBBF2
+2015-07-20 09:02:43,822 :: Server :: INFO :: Showing the round report
+2015-07-20 09:02:48,143 :: Server :: INFO :: Showing gameTurn for songid:SOMCQZY12A8C136BBF
+2015-07-20 09:02:57,225 :: Server :: INFO :: Showing the round report
+2015-07-20 09:03:04,676 :: Server :: INFO :: Showing gameTurn for songid:SOQKKCG12AB017D5C4
+2015-07-20 09:03:18,970 :: Server :: INFO :: Showing the round report
+2015-07-20 09:06:00,442 :: Server :: DEBUG :: logger set up. starting the application...
+2015-07-20 09:06:00,443 :: Server :: DEBUG :: initializing the application
+2015-07-20 09:06:02,149 :: Server :: INFO :: Showing gameTurn for songid:SOPLZYS12A8AE48DE6
+2015-07-20 09:06:07,619 :: Server :: DEBUG :: logger set up. starting the application...
+2015-07-20 09:06:07,619 :: Server :: DEBUG :: initializing the application
+2015-07-21 09:56:59,545 :: Server :: DEBUG :: logger set up. starting the application...
+2015-07-21 09:56:59,546 :: Server :: DEBUG :: initializing the application
+2015-07-21 09:57:04,261 :: Server :: INFO :: Showing gameTurn for songid:SOQOHSQ12A6D4F80D5
+2015-07-21 09:57:13,292 :: Server :: INFO :: Showing the round report
+2015-07-21 09:57:21,166 :: Server :: INFO :: Showing gameTurn for songid:SOQTFNY12A8AE47D3F
+2015-07-21 09:57:40,697 :: Server :: DEBUG :: logger set up. starting the application...
+2015-07-21 09:57:40,697 :: Server :: DEBUG :: initializing the application
+2015-07-21 09:57:46,461 :: Server :: INFO :: Showing gameTurn for songid:SOXKKUW12A8C13C614
+2015-07-21 09:57:50,625 :: Server :: INFO :: There was a request with a null guess. Redirecting...
+2015-07-21 09:57:53,113 :: Server :: INFO :: Showing gameTurn for songid:SOIJEWM12A67ADA08D
+2015-07-21 09:58:00,565 :: Server :: INFO :: Showing the round report
+2015-07-21 09:58:06,693 :: Server :: INFO :: Showing gameTurn for songid:SOOWXMG12A8C13D0A7
+2015-07-21 09:58:39,247 :: Server :: DEBUG :: logger set up. starting the application...
+2015-07-21 09:58:39,247 :: Server :: DEBUG :: initializing the application
+2015-07-21 09:58:42,493 :: Server :: INFO :: Showing gameTurn for songid:SOOEZYX12A58A77E00
+2015-07-21 09:59:10,424 :: Server :: DEBUG :: logger set up. starting the application...
+2015-07-21 09:59:10,424 :: Server :: DEBUG :: initializing the application
+2015-07-21 09:59:31,285 :: Server :: INFO :: Showing gameTurn for songid:SOQNNUY12A58A7CCEB
+2015-07-21 09:59:36,510 :: Server :: INFO :: Showing the round report
+2015-07-21 09:59:44,400 :: Server :: INFO :: Showing gameTurn for songid:SOBKIMB12A8C136DE9
+2015-07-21 09:59:51,413 :: Server :: INFO :: Showing the round report
+2015-07-21 10:00:07,561 :: Server :: INFO :: Showing gameTurn for songid:SOJLKPC12A8C13A3A7
+2015-07-21 10:01:27,166 :: Server :: DEBUG :: logger set up. starting the application...
+2015-07-21 10:01:27,166 :: Server :: DEBUG :: initializing the application
+2015-07-21 10:01:46,046 :: Server :: INFO :: Showing gameTurn for songid:SOBBDPK12AC3DF6CB3
+2015-07-21 10:01:49,422 :: Server :: INFO :: Showing the round report
+2015-07-23 08:36:18,757 :: Server :: DEBUG :: logger set up. starting the application...
+2015-07-23 08:36:18,775 :: Server :: DEBUG :: initializing the application
+2015-07-23 08:36:49,073 :: Server :: INFO :: Showing gameTurn for songid:SOZCATU12A58A7BD8D
+2015-07-23 08:37:19,707 :: Server :: INFO :: Showing the round report
+2015-07-23 08:37:33,218 :: Server :: INFO :: Showing gameTurn for songid:SOHWCYA12AB01806FA
+2015-07-23 08:37:51,308 :: Server :: INFO :: Showing the round report
+2015-07-23 14:23:27,537 :: Server :: DEBUG :: logger set up. starting the application...
+2015-07-23 14:23:27,537 :: Server :: DEBUG :: initializing the application
+2015-07-23 14:23:27,559 :: Server :: DEBUG :: logger set up. starting the application...
+2015-07-23 14:23:27,559 :: Server :: DEBUG :: initializing the application
+2015-07-23 14:24:02,571 :: Server :: DEBUG :: logger set up. starting the application...
+2015-07-23 14:24:02,571 :: Server :: DEBUG :: initializing the application
+2015-07-23 14:26:57,216 :: Server :: INFO :: Showing gameTurn for songid:SOGHWUG12A6D4FB3D3
+2015-07-23 14:27:16,384 :: Server :: DEBUG :: logger set up. starting the application...
+2015-07-23 14:27:16,384 :: Server :: DEBUG :: initializing the application
+2015-07-23 14:45:52,720 :: Server :: DEBUG :: logger set up. starting the application...
+2015-07-23 14:45:52,720 :: Server :: DEBUG :: initializing the application
+2015-07-23 14:46:31,551 :: Server :: INFO :: Showing gameTurn for songid:SOIWOPZ12A8C135EBA
+2015-07-23 14:47:13,269 :: Server :: INFO :: Showing the round report
+2015-07-23 15:07:26,170 :: Server :: DEBUG :: logger set up. starting the application...
+2015-07-23 15:07:26,170 :: Server :: DEBUG :: initializing the application
+2015-07-23 15:09:16,022 :: Server :: INFO :: Showing gameTurn for songid:SOBWBGS12AB01868B0
+2015-07-23 15:09:54,138 :: Server :: INFO :: Showing the round report
+2015-07-23 15:10:42,912 :: Server :: INFO :: Showing gameTurn for songid:SOEKETC12CF5F89191
+2015-07-23 15:10:57,194 :: Server :: INFO :: Showing the round report
+2015-07-24 12:58:02,906 :: Server :: DEBUG :: logger set up. starting the application...
+2015-07-24 12:58:02,906 :: Server :: DEBUG :: initializing the application
+2015-07-29 11:22:50,252 :: Server :: DEBUG :: logger set up. starting the application...
+2015-07-29 11:22:50,252 :: Server :: DEBUG :: initializing the application
+2015-07-30 11:14:13,998 :: Server :: DEBUG :: logger set up. starting the application...
+2015-07-30 11:14:13,998 :: Server :: DEBUG :: initializing the application
+2015-08-03 16:04:20,523 :: Server :: DEBUG :: logger set up. starting the application...
+2015-08-03 16:04:20,524 :: Server :: DEBUG :: initializing the application

@@ -1,0 +1,305 @@
+2015-07-17 08:50:38,642 :: GUI Launcher :: DEBUG :: logger set up. starting the application...
+2015-07-17 08:50:38,642 :: GUI Launcher :: DEBUG :: initializing the application
+2015-07-17 08:50:38,642 :: GUI Launcher :: DEBUG :: gui: hello world
+2015-07-17 08:57:56,038 :: GUI Launcher :: DEBUG :: logger set up. starting the application...
+2015-07-17 08:57:56,038 :: GUI Launcher :: DEBUG :: initializing the application
+2015-07-17 08:57:56,039 :: GUI Launcher :: INFO :: <START>
+2015-07-17 08:57:56,039 :: GUI Launcher :: INFO :: Starting application
+2015-07-17 08:57:56,138 :: GUI Launcher :: INFO :: Difficulty changed to easy
+2015-07-17 08:57:56,138 :: GUI Launcher :: INFO :: Quickloading
+2015-07-17 08:57:56,139 :: GUI Launcher :: INFO :: Successfully quickloaded
+2015-07-17 08:57:56,189 :: GUI Launcher :: INFO :: Application fully loaded
+2015-07-17 08:57:59,146 :: GUI Launcher :: INFO :: Quicksaving
+2015-07-17 08:57:59,147 :: GUI Launcher :: INFO :: <END>
+2015-07-17 08:58:10,778 :: GUI Launcher :: DEBUG :: logger set up. starting the application...
+2015-07-17 08:58:10,778 :: GUI Launcher :: DEBUG :: initializing the application
+2015-07-17 09:04:27,704 :: GUI Launcher :: DEBUG :: logger set up. starting the application...
+2015-07-17 09:04:27,704 :: GUI Launcher :: DEBUG :: initializing the application
+2015-07-17 09:09:10,897 :: GUI Launcher :: DEBUG :: logger set up. starting the application...
+2015-07-17 09:09:10,897 :: GUI Launcher :: DEBUG :: initializing the application
+2015-07-20 08:42:01,658 :: GUI Launcher :: DEBUG :: logger set up. starting the application...
+2015-07-20 08:42:01,680 :: GUI Launcher :: DEBUG :: initializing the application
+2015-07-20 08:42:33,762 :: GUI Launcher :: DEBUG :: logger set up. starting the application...
+2015-07-20 08:42:33,762 :: GUI Launcher :: DEBUG :: initializing the application
+2015-07-20 08:43:24,838 :: GUI Launcher :: DEBUG :: logger set up. starting the application...
+2015-07-20 08:43:24,839 :: GUI Launcher :: DEBUG :: initializing the application
+2015-07-20 08:44:10,971 :: GUI Launcher :: DEBUG :: logger set up. starting the application...
+2015-07-20 08:44:10,972 :: GUI Launcher :: DEBUG :: initializing the application
+2015-07-20 08:44:11,386 :: GUI Launcher :: INFO :: <START>
+2015-07-20 08:44:11,387 :: GUI Launcher :: INFO :: Starting application
+2015-07-20 08:44:12,877 :: GUI Launcher :: INFO :: Difficulty changed to easy
+2015-07-20 08:44:12,877 :: GUI Launcher :: INFO :: Quickloading
+2015-07-20 08:44:12,878 :: GUI Launcher :: INFO :: Successfully quickloaded
+2015-07-20 08:44:13,138 :: GUI Launcher :: INFO :: Application fully loaded
+2015-07-20 08:44:15,238 :: GUI Launcher :: INFO :: Quicksaving
+2015-07-20 08:44:15,240 :: GUI Launcher :: INFO :: <END>
+2015-07-20 08:45:30,068 :: GUI Launcher :: DEBUG :: logger set up. starting the application...
+2015-07-20 08:45:30,068 :: GUI Launcher :: DEBUG :: initializing the application
+2015-07-20 08:45:30,484 :: GUI Launcher :: INFO :: <START>
+2015-07-20 08:45:30,484 :: GUI Launcher :: INFO :: Starting application
+2015-07-20 08:45:30,627 :: GUI Launcher :: INFO :: Difficulty changed to easy
+2015-07-20 08:45:30,628 :: GUI Launcher :: INFO :: Quickloading
+2015-07-20 08:45:30,629 :: GUI Launcher :: INFO :: Successfully quickloaded
+2015-07-20 08:45:30,648 :: GUI Launcher :: INFO :: Application fully loaded
+2015-07-20 08:46:30,631 :: GUI Launcher :: INFO :: User: wooohooo was successfully added to db
+2015-07-20 08:46:30,801 :: GUI Launcher :: INFO :: Successfully created new profile:wooohooo
+2015-07-20 08:47:19,708 :: GUI Launcher :: INFO :: Found user: bryan via username. Closing the dialog.
+2015-07-20 08:47:19,709 :: GUI Launcher :: INFO :: Successfully loaded profile:bryan
+2015-07-20 08:47:28,502 :: GUI Launcher :: INFO :: Difficulty changed to medium
+2015-07-20 08:47:28,502 :: GUI Launcher :: INFO :: Difficulty changed to medium
+2015-07-20 08:47:29,855 :: GUI Launcher :: INFO :: Correct password
+2015-07-20 08:47:29,862 :: GUI Launcher :: INFO :: Starting medium game with user id: bRyrQwIwHOslIOP
+2015-07-20 08:51:26,020 :: GUI Launcher :: DEBUG :: logger set up. starting the application...
+2015-07-20 08:51:26,020 :: GUI Launcher :: DEBUG :: initializing the application
+2015-07-20 08:51:26,462 :: GUI Launcher :: INFO :: <START>
+2015-07-20 08:51:26,463 :: GUI Launcher :: INFO :: Starting application
+2015-07-20 08:51:26,584 :: GUI Launcher :: INFO :: Difficulty changed to easy
+2015-07-20 08:51:26,585 :: GUI Launcher :: INFO :: Quickloading
+2015-07-20 08:51:26,586 :: GUI Launcher :: INFO :: Successfully quickloaded
+2015-07-20 08:51:26,672 :: GUI Launcher :: INFO :: Application fully loaded
+2015-07-20 08:51:32,010 :: GUI Launcher :: INFO :: Difficulty changed to medium
+2015-07-20 08:51:32,010 :: GUI Launcher :: INFO :: Difficulty changed to medium
+2015-07-20 08:51:33,153 :: GUI Launcher :: INFO :: Correct password
+2015-07-20 08:51:33,159 :: GUI Launcher :: INFO :: Starting medium game with user id: bRyrQwIwHOslIOP
+2015-07-20 08:54:29,088 :: GUI Launcher :: INFO :: User: test was successfully added to db
+2015-07-20 08:54:29,280 :: GUI Launcher :: INFO :: Successfully created new profile:test
+2015-07-20 08:54:35,315 :: GUI Launcher :: INFO :: Correct password
+2015-07-20 08:54:35,320 :: GUI Launcher :: INFO :: Starting medium game with user id: qDTJbKgNuEqIcut
+2015-07-20 09:00:06,606 :: GUI Launcher :: INFO :: Quicksaving
+2015-07-20 09:00:06,606 :: GUI Launcher :: INFO :: <END>
+2015-07-20 09:00:46,713 :: GUI Launcher :: DEBUG :: logger set up. starting the application...
+2015-07-20 09:00:46,713 :: GUI Launcher :: DEBUG :: initializing the application
+2015-07-20 09:00:47,151 :: GUI Launcher :: INFO :: <START>
+2015-07-20 09:00:47,152 :: GUI Launcher :: INFO :: Starting application
+2015-07-20 09:00:47,289 :: GUI Launcher :: INFO :: Difficulty changed to easy
+2015-07-20 09:00:47,290 :: GUI Launcher :: INFO :: Quickloading
+2015-07-20 09:00:47,291 :: GUI Launcher :: INFO :: Difficulty changed to medium
+2015-07-20 09:00:47,291 :: GUI Launcher :: INFO :: Difficulty changed to medium
+2015-07-20 09:00:47,291 :: GUI Launcher :: INFO :: Successfully quickloaded
+2015-07-20 09:00:47,314 :: GUI Launcher :: INFO :: Application fully loaded
+2015-07-20 09:00:58,372 :: GUI Launcher :: INFO :: Found user: bryan via username. Closing the dialog.
+2015-07-20 09:00:58,374 :: GUI Launcher :: INFO :: Successfully loaded profile:bryan
+2015-07-20 09:01:06,431 :: GUI Launcher :: INFO :: Correct password
+2015-07-20 09:01:06,438 :: GUI Launcher :: INFO :: Starting medium game with user id: bRyrQwIwHOslIOP
+2015-07-20 09:03:31,487 :: GUI Launcher :: INFO :: Quicksaving
+2015-07-20 09:03:31,488 :: GUI Launcher :: INFO :: <END>
+2015-07-20 09:06:00,027 :: GUI Launcher :: DEBUG :: logger set up. starting the application...
+2015-07-20 09:06:00,027 :: GUI Launcher :: DEBUG :: initializing the application
+2015-07-20 09:06:00,444 :: GUI Launcher :: INFO :: <START>
+2015-07-20 09:06:00,445 :: GUI Launcher :: INFO :: Starting application
+2015-07-20 09:06:00,584 :: GUI Launcher :: INFO :: Difficulty changed to easy
+2015-07-20 09:06:00,584 :: GUI Launcher :: INFO :: Quickloading
+2015-07-20 09:06:00,585 :: GUI Launcher :: INFO :: Difficulty changed to medium
+2015-07-20 09:06:00,585 :: GUI Launcher :: INFO :: Difficulty changed to medium
+2015-07-20 09:06:00,586 :: GUI Launcher :: INFO :: Successfully quickloaded
+2015-07-20 09:06:00,666 :: GUI Launcher :: INFO :: Application fully loaded
+2015-07-20 09:06:03,638 :: GUI Launcher :: INFO :: Quicksaving
+2015-07-20 09:06:03,639 :: GUI Launcher :: INFO :: <END>
+2015-07-20 09:06:07,191 :: GUI Launcher :: DEBUG :: logger set up. starting the application...
+2015-07-20 09:06:07,191 :: GUI Launcher :: DEBUG :: initializing the application
+2015-07-20 09:06:07,621 :: GUI Launcher :: INFO :: <START>
+2015-07-20 09:06:07,621 :: GUI Launcher :: INFO :: Starting application
+2015-07-20 09:06:07,762 :: GUI Launcher :: INFO :: Difficulty changed to easy
+2015-07-20 09:06:07,763 :: GUI Launcher :: INFO :: Quickloading
+2015-07-20 09:06:07,764 :: GUI Launcher :: INFO :: Difficulty changed to medium
+2015-07-20 09:06:07,764 :: GUI Launcher :: INFO :: Difficulty changed to medium
+2015-07-20 09:06:07,765 :: GUI Launcher :: INFO :: Successfully quickloaded
+2015-07-20 09:06:07,835 :: GUI Launcher :: INFO :: Application fully loaded
+2015-07-20 09:06:24,878 :: GUI Launcher :: INFO :: Quicksaving
+2015-07-20 09:06:24,880 :: GUI Launcher :: INFO :: <END>
+2015-07-20 09:06:44,996 :: GUI Launcher :: INFO :: Quicksaving
+2015-07-20 09:06:44,997 :: GUI Launcher :: INFO :: <END>
+2015-07-21 09:56:59,124 :: GUI Launcher :: DEBUG :: logger set up. starting the application...
+2015-07-21 09:56:59,124 :: GUI Launcher :: DEBUG :: initializing the application
+2015-07-21 09:56:59,548 :: GUI Launcher :: INFO :: <START>
+2015-07-21 09:56:59,548 :: GUI Launcher :: INFO :: Starting application
+2015-07-21 09:56:59,690 :: GUI Launcher :: INFO :: Difficulty changed to easy
+2015-07-21 09:56:59,691 :: GUI Launcher :: INFO :: Quickloading
+2015-07-21 09:56:59,692 :: GUI Launcher :: INFO :: Difficulty changed to medium
+2015-07-21 09:56:59,692 :: GUI Launcher :: INFO :: Difficulty changed to medium
+2015-07-21 09:56:59,692 :: GUI Launcher :: INFO :: Successfully quickloaded
+2015-07-21 09:56:59,710 :: GUI Launcher :: INFO :: Application fully loaded
+2015-07-21 09:57:02,572 :: GUI Launcher :: INFO :: Correct password
+2015-07-21 09:57:02,578 :: GUI Launcher :: INFO :: Starting medium game with user id: bRyrQwIwHOslIOP
+2015-07-21 09:57:24,498 :: GUI Launcher :: INFO :: Quicksaving
+2015-07-21 09:57:24,499 :: GUI Launcher :: INFO :: <END>
+2015-07-23 08:36:15,804 :: GUI Launcher :: DEBUG :: logger set up. starting the application...
+2015-07-23 08:36:15,818 :: GUI Launcher :: DEBUG :: initializing the application
+2015-07-23 08:36:18,793 :: GUI Launcher :: INFO :: <START>
+2015-07-23 08:36:18,794 :: GUI Launcher :: INFO :: Starting application
+2015-07-23 08:36:20,013 :: GUI Launcher :: INFO :: Difficulty changed to easy
+2015-07-23 08:36:20,014 :: GUI Launcher :: INFO :: Quickloading
+2015-07-23 08:36:20,015 :: GUI Launcher :: INFO :: Difficulty changed to medium
+2015-07-23 08:36:20,015 :: GUI Launcher :: INFO :: Difficulty changed to medium
+2015-07-23 08:36:20,015 :: GUI Launcher :: INFO :: Successfully quickloaded
+2015-07-23 08:36:20,217 :: GUI Launcher :: INFO :: Application fully loaded
+2015-07-23 08:36:31,470 :: GUI Launcher :: INFO :: Correct password
+2015-07-23 08:36:31,519 :: GUI Launcher :: INFO :: Starting medium game with user id: bRyrQwIwHOslIOP
+2015-07-23 08:38:01,118 :: GUI Launcher :: INFO :: Quicksaving
+2015-07-23 08:38:01,120 :: GUI Launcher :: INFO :: <END>
+2015-07-23 14:23:26,932 :: GUI Launcher :: DEBUG :: logger set up. starting the application...
+2015-07-23 14:23:26,933 :: GUI Launcher :: DEBUG :: initializing the application
+2015-07-23 14:23:26,944 :: GUI Launcher :: DEBUG :: logger set up. starting the application...
+2015-07-23 14:23:26,944 :: GUI Launcher :: DEBUG :: initializing the application
+2015-07-23 14:23:27,539 :: GUI Launcher :: INFO :: <START>
+2015-07-23 14:23:27,540 :: GUI Launcher :: INFO :: Starting application
+2015-07-23 14:23:27,561 :: GUI Launcher :: INFO :: <START>
+2015-07-23 14:23:27,562 :: GUI Launcher :: INFO :: Starting application
+2015-07-23 14:23:27,659 :: GUI Launcher :: INFO :: Difficulty changed to easy
+2015-07-23 14:23:27,659 :: GUI Launcher :: INFO :: Quickloading
+2015-07-23 14:23:27,661 :: GUI Launcher :: INFO :: Difficulty changed to medium
+2015-07-23 14:23:27,661 :: GUI Launcher :: INFO :: Difficulty changed to medium
+2015-07-23 14:23:27,661 :: GUI Launcher :: INFO :: Successfully quickloaded
+2015-07-23 14:23:27,746 :: GUI Launcher :: INFO :: Application fully loaded
+2015-07-23 14:23:27,764 :: GUI Launcher :: INFO :: Difficulty changed to easy
+2015-07-23 14:23:27,765 :: GUI Launcher :: INFO :: Quickloading
+2015-07-23 14:23:27,766 :: GUI Launcher :: INFO :: Difficulty changed to medium
+2015-07-23 14:23:27,766 :: GUI Launcher :: INFO :: Difficulty changed to medium
+2015-07-23 14:23:27,766 :: GUI Launcher :: INFO :: Successfully quickloaded
+2015-07-23 14:23:27,805 :: GUI Launcher :: INFO :: Application fully loaded
+2015-07-23 14:24:02,150 :: GUI Launcher :: DEBUG :: logger set up. starting the application...
+2015-07-23 14:24:02,150 :: GUI Launcher :: DEBUG :: initializing the application
+2015-07-23 14:24:02,573 :: GUI Launcher :: INFO :: <START>
+2015-07-23 14:24:02,574 :: GUI Launcher :: INFO :: Starting application
+2015-07-23 14:24:02,726 :: GUI Launcher :: INFO :: Difficulty changed to easy
+2015-07-23 14:24:02,727 :: GUI Launcher :: INFO :: Quickloading
+2015-07-23 14:24:02,728 :: GUI Launcher :: INFO :: Difficulty changed to medium
+2015-07-23 14:24:02,728 :: GUI Launcher :: INFO :: Difficulty changed to medium
+2015-07-23 14:24:02,728 :: GUI Launcher :: INFO :: Successfully quickloaded
+2015-07-23 14:24:02,796 :: GUI Launcher :: INFO :: Application fully loaded
+2015-07-23 14:26:47,555 :: GUI Launcher :: INFO :: User: asdf was successfully added to db
+2015-07-23 14:26:47,712 :: GUI Launcher :: INFO :: Successfully created new profile:asdf
+2015-07-23 14:26:55,706 :: GUI Launcher :: INFO :: Correct password
+2015-07-23 14:26:55,713 :: GUI Launcher :: INFO :: Starting medium game with user id: mtCvvqmsnyNudfS
+2015-07-23 14:27:12,322 :: GUI Launcher :: INFO :: Quicksaving
+2015-07-23 14:27:12,323 :: GUI Launcher :: INFO :: <END>
+2015-07-23 14:27:15,963 :: GUI Launcher :: DEBUG :: logger set up. starting the application...
+2015-07-23 14:27:15,963 :: GUI Launcher :: DEBUG :: initializing the application
+2015-07-23 14:27:16,386 :: GUI Launcher :: INFO :: <START>
+2015-07-23 14:27:16,386 :: GUI Launcher :: INFO :: Starting application
+2015-07-23 14:27:16,513 :: GUI Launcher :: INFO :: Difficulty changed to easy
+2015-07-23 14:27:16,513 :: GUI Launcher :: INFO :: Quickloading
+2015-07-23 14:27:16,514 :: GUI Launcher :: INFO :: Difficulty changed to medium
+2015-07-23 14:27:16,514 :: GUI Launcher :: INFO :: Difficulty changed to medium
+2015-07-23 14:27:16,515 :: GUI Launcher :: INFO :: Successfully quickloaded
+2015-07-23 14:27:16,544 :: GUI Launcher :: INFO :: Application fully loaded
+2015-07-23 14:27:20,792 :: GUI Launcher :: INFO :: Found user: bryan via username. Closing the dialog.
+2015-07-23 14:27:20,795 :: GUI Launcher :: INFO :: Successfully loaded profile:bryan
+2015-07-23 14:27:22,970 :: GUI Launcher :: INFO :: Quicksaving
+2015-07-23 14:27:22,971 :: GUI Launcher :: INFO :: <END>
+2015-07-23 14:45:52,284 :: GUI Launcher :: DEBUG :: logger set up. starting the application...
+2015-07-23 14:45:52,284 :: GUI Launcher :: DEBUG :: initializing the application
+2015-07-23 14:45:52,722 :: GUI Launcher :: INFO :: <START>
+2015-07-23 14:45:52,723 :: GUI Launcher :: INFO :: Starting application
+2015-07-23 14:45:52,805 :: GUI Launcher :: INFO :: Difficulty changed to easy
+2015-07-23 14:45:52,805 :: GUI Launcher :: INFO :: Quickloading
+2015-07-23 14:45:52,806 :: GUI Launcher :: INFO :: Difficulty changed to medium
+2015-07-23 14:45:52,806 :: GUI Launcher :: INFO :: Difficulty changed to medium
+2015-07-23 14:45:52,807 :: GUI Launcher :: INFO :: Successfully quickloaded
+2015-07-23 14:45:52,885 :: GUI Launcher :: INFO :: Application fully loaded
+2015-07-23 14:46:02,071 :: GUI Launcher :: INFO :: Difficulty changed to hard
+2015-07-23 14:46:02,072 :: GUI Launcher :: INFO :: Difficulty changed to hard
+2015-07-23 14:46:03,496 :: GUI Launcher :: INFO :: Difficulty changed to hard
+2015-07-23 14:46:03,496 :: GUI Launcher :: INFO :: Difficulty changed to hard
+2015-07-23 14:46:03,968 :: GUI Launcher :: INFO :: Difficulty changed to medium
+2015-07-23 14:46:03,969 :: GUI Launcher :: INFO :: Difficulty changed to medium
+2015-07-23 14:46:30,102 :: GUI Launcher :: INFO :: Correct password
+2015-07-23 14:46:30,109 :: GUI Launcher :: INFO :: Starting medium game with user id: bRyrQwIwHOslIOP
+2015-07-23 14:47:43,970 :: GUI Launcher :: INFO :: Difficulty changed to easy
+2015-07-23 14:47:43,971 :: GUI Launcher :: INFO :: Difficulty changed to easy
+2015-07-23 14:47:45,122 :: GUI Launcher :: INFO :: Difficulty changed to medium
+2015-07-23 14:47:45,123 :: GUI Launcher :: INFO :: Difficulty changed to medium
+2015-07-23 14:47:45,530 :: GUI Launcher :: INFO :: Difficulty changed to hard
+2015-07-23 14:47:45,531 :: GUI Launcher :: INFO :: Difficulty changed to hard
+2015-07-23 14:47:47,378 :: GUI Launcher :: INFO :: Difficulty changed to medium
+2015-07-23 14:47:47,379 :: GUI Launcher :: INFO :: Difficulty changed to medium
+2015-07-23 14:47:50,522 :: GUI Launcher :: INFO :: Difficulty changed to hard
+2015-07-23 14:47:50,523 :: GUI Launcher :: INFO :: Difficulty changed to hard
+2015-07-23 14:47:52,210 :: GUI Launcher :: INFO :: Difficulty changed to hard
+2015-07-23 14:47:52,211 :: GUI Launcher :: INFO :: Difficulty changed to hard
+2015-07-23 14:47:53,130 :: GUI Launcher :: INFO :: Difficulty changed to medium
+2015-07-23 14:47:53,131 :: GUI Launcher :: INFO :: Difficulty changed to medium
+2015-07-23 14:48:01,500 :: GUI Launcher :: INFO :: Quicksaving
+2015-07-23 14:48:01,501 :: GUI Launcher :: INFO :: <END>
+2015-07-23 15:07:25,747 :: GUI Launcher :: DEBUG :: logger set up. starting the application...
+2015-07-23 15:07:25,747 :: GUI Launcher :: DEBUG :: initializing the application
+2015-07-23 15:07:26,172 :: GUI Launcher :: INFO :: <START>
+2015-07-23 15:07:26,172 :: GUI Launcher :: INFO :: Starting application
+2015-07-23 15:07:26,336 :: GUI Launcher :: INFO :: Difficulty changed to easy
+2015-07-23 15:07:26,337 :: GUI Launcher :: INFO :: Quickloading
+2015-07-23 15:07:26,337 :: GUI Launcher :: INFO :: Difficulty changed to medium
+2015-07-23 15:07:26,338 :: GUI Launcher :: INFO :: Difficulty changed to medium
+2015-07-23 15:07:26,338 :: GUI Launcher :: INFO :: Successfully quickloaded
+2015-07-23 15:07:26,379 :: GUI Launcher :: INFO :: Application fully loaded
+2015-07-23 15:08:07,539 :: GUI Launcher :: INFO :: User: demo was successfully added to db
+2015-07-23 15:08:07,726 :: GUI Launcher :: INFO :: Successfully created new profile:demo
+2015-07-23 15:08:12,820 :: GUI Launcher :: INFO :: Difficulty changed to easy
+2015-07-23 15:08:12,820 :: GUI Launcher :: INFO :: Difficulty changed to easy
+2015-07-23 15:08:26,732 :: GUI Launcher :: INFO :: Difficulty changed to hard
+2015-07-23 15:08:26,733 :: GUI Launcher :: INFO :: Difficulty changed to hard
+2015-07-23 15:08:30,068 :: GUI Launcher :: INFO :: Difficulty changed to hard
+2015-07-23 15:08:30,068 :: GUI Launcher :: INFO :: Difficulty changed to hard
+2015-07-23 15:09:09,772 :: GUI Launcher :: INFO :: Difficulty changed to medium
+2015-07-23 15:09:09,772 :: GUI Launcher :: INFO :: Difficulty changed to medium
+2015-07-23 15:09:14,731 :: GUI Launcher :: INFO :: Correct password
+2015-07-23 15:09:14,738 :: GUI Launcher :: INFO :: Starting medium game with user id: XjEpaMEiiaPuhqN
+2015-07-23 16:04:19,887 :: GUI Launcher :: INFO :: Quicksaving
+2015-07-23 16:04:19,888 :: GUI Launcher :: INFO :: <END>
+2015-07-24 12:58:02,459 :: GUI Launcher :: DEBUG :: logger set up. starting the application...
+2015-07-24 12:58:02,460 :: GUI Launcher :: DEBUG :: initializing the application
+2015-07-24 12:58:02,908 :: GUI Launcher :: INFO :: <START>
+2015-07-24 12:58:02,909 :: GUI Launcher :: INFO :: Starting application
+2015-07-24 12:58:03,054 :: GUI Launcher :: INFO :: Difficulty changed to easy
+2015-07-24 12:58:03,054 :: GUI Launcher :: INFO :: Quickloading
+2015-07-24 12:58:03,055 :: GUI Launcher :: INFO :: Difficulty changed to medium
+2015-07-24 12:58:03,056 :: GUI Launcher :: INFO :: Difficulty changed to medium
+2015-07-24 12:58:03,056 :: GUI Launcher :: INFO :: Successfully quickloaded
+2015-07-24 12:58:03,083 :: GUI Launcher :: INFO :: Application fully loaded
+2015-07-24 12:58:12,180 :: GUI Launcher :: INFO :: Quicksaving
+2015-07-24 12:58:12,181 :: GUI Launcher :: INFO :: <END>
+2015-07-29 11:22:34,313 :: GUI Launcher :: DEBUG :: logger set up. starting the application...
+2015-07-29 11:22:34,313 :: GUI Launcher :: DEBUG :: initializing the application
+2015-07-29 11:22:48,941 :: GUI Launcher :: DEBUG :: logger set up. starting the application...
+2015-07-29 11:22:48,941 :: GUI Launcher :: DEBUG :: initializing the application
+2015-07-29 11:22:50,254 :: GUI Launcher :: INFO :: <START>
+2015-07-29 11:22:50,254 :: GUI Launcher :: INFO :: Starting application
+2015-07-29 11:22:50,390 :: GUI Launcher :: INFO :: Difficulty changed to easy
+2015-07-29 11:22:50,390 :: GUI Launcher :: INFO :: Quickloading
+2015-07-29 11:22:50,406 :: GUI Launcher :: INFO :: Difficulty changed to medium
+2015-07-29 11:22:50,406 :: GUI Launcher :: INFO :: Difficulty changed to medium
+2015-07-29 11:22:50,407 :: GUI Launcher :: INFO :: Successfully quickloaded
+2015-07-29 11:22:50,473 :: GUI Launcher :: INFO :: Application fully loaded
+2015-07-29 11:23:01,018 :: GUI Launcher :: INFO :: Difficulty changed to hard
+2015-07-29 11:23:01,019 :: GUI Launcher :: INFO :: Difficulty changed to hard
+2015-07-29 11:23:16,087 :: GUI Launcher :: INFO :: Difficulty changed to hard
+2015-07-29 11:23:16,088 :: GUI Launcher :: INFO :: Difficulty changed to hard
+2015-07-29 11:23:16,815 :: GUI Launcher :: INFO :: Difficulty changed to medium
+2015-07-29 11:23:16,816 :: GUI Launcher :: INFO :: Difficulty changed to medium
+2015-07-29 11:23:17,711 :: GUI Launcher :: INFO :: Difficulty changed to easy
+2015-07-29 11:23:17,712 :: GUI Launcher :: INFO :: Difficulty changed to easy
+2015-07-30 11:14:13,584 :: GUI Launcher :: DEBUG :: logger set up. starting the application...
+2015-07-30 11:14:13,584 :: GUI Launcher :: DEBUG :: initializing the application
+2015-07-30 11:14:14,000 :: GUI Launcher :: INFO :: <START>
+2015-07-30 11:14:14,001 :: GUI Launcher :: INFO :: Starting application
+2015-07-30 11:14:14,092 :: GUI Launcher :: INFO :: Difficulty changed to easy
+2015-07-30 11:14:14,092 :: GUI Launcher :: INFO :: Quickloading
+2015-07-30 11:14:14,093 :: GUI Launcher :: INFO :: Difficulty changed to medium
+2015-07-30 11:14:14,093 :: GUI Launcher :: INFO :: Difficulty changed to medium
+2015-07-30 11:14:14,094 :: GUI Launcher :: INFO :: Successfully quickloaded
+2015-07-30 11:14:14,172 :: GUI Launcher :: INFO :: Application fully loaded
+2015-07-30 11:44:29,736 :: GUI Launcher :: INFO :: Quicksaving
+2015-07-30 11:44:29,737 :: GUI Launcher :: INFO :: <END>
+2015-08-03 16:04:06,875 :: GUI Launcher :: DEBUG :: logger set up. starting the application...
+2015-08-03 16:04:06,876 :: GUI Launcher :: DEBUG :: initializing the application
+2015-08-03 16:04:20,036 :: GUI Launcher :: DEBUG :: logger set up. starting the application...
+2015-08-03 16:04:20,037 :: GUI Launcher :: DEBUG :: initializing the application
+2015-08-03 16:04:20,526 :: GUI Launcher :: INFO :: <START>
+2015-08-03 16:04:20,527 :: GUI Launcher :: INFO :: Starting application
+2015-08-03 16:04:20,692 :: GUI Launcher :: INFO :: Difficulty changed to easy
+2015-08-03 16:04:20,692 :: GUI Launcher :: INFO :: Quickloading
+2015-08-03 16:04:20,693 :: GUI Launcher :: INFO :: Difficulty changed to medium
+2015-08-03 16:04:20,693 :: GUI Launcher :: INFO :: Difficulty changed to medium
+2015-08-03 16:04:20,693 :: GUI Launcher :: INFO :: Successfully quickloaded
+2015-08-03 16:04:20,731 :: GUI Launcher :: INFO :: Application fully loaded
+2015-08-03 16:04:26,986 :: GUI Launcher :: INFO :: Quicksaving
+2015-08-03 16:04:26,987 :: GUI Launcher :: INFO :: <END>

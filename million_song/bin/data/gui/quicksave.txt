@@ -1,0 +1,2 @@
+LAST_USER=demo
+SETTINGS: DIFF=M,

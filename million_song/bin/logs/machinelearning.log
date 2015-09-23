@@ -1,0 +1,244 @@
+2015-07-16 09:01:45,612 :: MachineLearning :: DEBUG :: logger set up. starting the application...
+2015-07-16 09:01:45,613 :: MachineLearning :: DEBUG :: initializing the application
+2015-07-16 09:01:45,701 :: MachineLearning :: INFO :: Successfully loaded guesser from file.
+2015-07-16 09:01:47,753 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,754 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,755 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,755 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,756 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,756 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,757 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,757 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,757 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,758 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,758 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,758 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,759 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,759 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,759 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,760 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,760 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,761 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,761 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,761 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,762 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,762 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,762 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,763 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,763 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,763 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,764 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,764 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,764 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,765 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,765 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,765 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,766 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,766 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,766 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,767 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,767 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,767 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,768 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,768 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,768 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,769 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,769 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,769 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,770 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,770 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,770 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,771 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,771 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,771 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,772 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,772 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,772 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,773 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,773 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,773 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,774 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,774 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,774 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,775 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,775 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,775 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,776 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,776 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,782 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,790 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,790 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,790 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,791 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,791 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,792 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,792 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,793 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,794 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,794 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,795 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,796 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,797 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,797 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,798 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,799 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,800 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,800 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,801 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,802 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,802 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,803 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,804 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,804 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,805 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,805 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,806 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,806 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,806 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,807 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,807 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,807 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,808 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,808 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:01:47,809 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 09:02:29,795 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 11:25:05,343 :: MachineLearning :: DEBUG :: logger set up. starting the application...
+2015-07-16 11:25:05,344 :: MachineLearning :: DEBUG :: initializing the application
+2015-07-16 11:25:05,432 :: MachineLearning :: INFO :: Successfully loaded guesser from file.
+2015-07-16 11:25:05,432 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 11:25:05,433 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 11:25:05,433 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 11:25:05,433 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-16 11:25:05,434 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-17 08:16:03,761 :: MachineLearning :: DEBUG :: logger set up. starting the application...
+2015-07-17 08:16:03,761 :: MachineLearning :: DEBUG :: initializing the application
+2015-07-17 08:16:03,888 :: MachineLearning :: INFO :: Successfully loaded guesser from file.
+2015-07-17 08:16:12,204 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-17 08:44:47,956 :: MachineLearning :: DEBUG :: logger set up. starting the application...
+2015-07-17 08:44:47,956 :: MachineLearning :: DEBUG :: initializing the application
+2015-07-17 08:44:48,043 :: MachineLearning :: INFO :: Successfully loaded guesser from file.
+2015-07-17 08:54:37,410 :: MachineLearning :: DEBUG :: logger set up. starting the application...
+2015-07-17 08:54:37,410 :: MachineLearning :: DEBUG :: initializing the application
+2015-07-17 08:55:16,604 :: MachineLearning :: DEBUG :: logger set up. starting the application...
+2015-07-17 08:55:16,605 :: MachineLearning :: DEBUG :: initializing the application
+2015-07-17 08:55:16,694 :: MachineLearning :: INFO :: Successfully loaded guesser from file.
+2015-07-17 08:55:56,089 :: MachineLearning :: DEBUG :: logger set up. starting the application...
+2015-07-17 08:55:56,089 :: MachineLearning :: DEBUG :: initializing the application
+2015-07-17 08:55:56,173 :: MachineLearning :: INFO :: Successfully loaded guesser from file.
+2015-07-17 08:56:46,235 :: MachineLearning :: DEBUG :: logger set up. starting the application...
+2015-07-17 08:56:46,235 :: MachineLearning :: DEBUG :: initializing the application
+2015-07-17 08:56:46,328 :: MachineLearning :: INFO :: Successfully loaded guesser from file.
+2015-07-20 08:42:04,255 :: MachineLearning :: DEBUG :: logger set up. starting the application...
+2015-07-20 08:42:04,267 :: MachineLearning :: DEBUG :: initializing the application
+2015-07-20 08:42:34,182 :: MachineLearning :: DEBUG :: logger set up. starting the application...
+2015-07-20 08:42:34,182 :: MachineLearning :: DEBUG :: initializing the application
+2015-07-20 08:43:25,282 :: MachineLearning :: DEBUG :: logger set up. starting the application...
+2015-07-20 08:43:25,282 :: MachineLearning :: DEBUG :: initializing the application
+2015-07-20 08:44:11,383 :: MachineLearning :: DEBUG :: logger set up. starting the application...
+2015-07-20 08:44:11,383 :: MachineLearning :: DEBUG :: initializing the application
+2015-07-20 08:44:12,449 :: MachineLearning :: INFO :: Successfully loaded guesser from file.
+2015-07-20 08:45:30,481 :: MachineLearning :: DEBUG :: logger set up. starting the application...
+2015-07-20 08:45:30,481 :: MachineLearning :: DEBUG :: initializing the application
+2015-07-20 08:45:30,585 :: MachineLearning :: INFO :: Successfully loaded guesser from file.
+2015-07-20 08:47:30,660 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-20 08:48:30,610 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-20 08:48:54,961 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-20 08:49:26,955 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-20 08:51:26,459 :: MachineLearning :: DEBUG :: logger set up. starting the application...
+2015-07-20 08:51:26,459 :: MachineLearning :: DEBUG :: initializing the application
+2015-07-20 08:51:26,594 :: MachineLearning :: INFO :: Successfully loaded guesser from file.
+2015-07-20 08:51:33,913 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-20 08:52:34,787 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-20 08:54:36,083 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-20 08:54:50,146 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-20 08:55:01,792 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-20 08:55:02,435 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-20 08:55:22,666 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-20 08:56:06,994 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-20 08:57:45,513 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-20 08:58:44,940 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-20 08:58:48,716 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-20 08:59:38,755 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-20 08:59:39,227 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-20 09:00:47,148 :: MachineLearning :: DEBUG :: logger set up. starting the application...
+2015-07-20 09:00:47,148 :: MachineLearning :: DEBUG :: initializing the application
+2015-07-20 09:00:47,260 :: MachineLearning :: INFO :: Successfully loaded guesser from file.
+2015-07-20 09:01:07,181 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-20 09:01:07,883 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-20 09:01:41,806 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-20 09:01:59,372 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-20 09:02:20,487 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-20 09:02:34,754 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-20 09:02:47,698 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-20 09:03:04,243 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-20 09:06:00,442 :: MachineLearning :: DEBUG :: logger set up. starting the application...
+2015-07-20 09:06:00,442 :: MachineLearning :: DEBUG :: initializing the application
+2015-07-20 09:06:00,543 :: MachineLearning :: INFO :: Successfully loaded guesser from file.
+2015-07-20 09:06:01,617 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-20 09:06:07,618 :: MachineLearning :: DEBUG :: logger set up. starting the application...
+2015-07-20 09:06:07,618 :: MachineLearning :: DEBUG :: initializing the application
+2015-07-20 09:06:07,720 :: MachineLearning :: INFO :: Successfully loaded guesser from file.
+2015-07-21 09:56:59,545 :: MachineLearning :: DEBUG :: logger set up. starting the application...
+2015-07-21 09:56:59,545 :: MachineLearning :: DEBUG :: initializing the application
+2015-07-21 09:56:59,644 :: MachineLearning :: INFO :: Successfully loaded guesser from file.
+2015-07-21 09:57:03,344 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-21 09:57:20,414 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-21 09:57:40,696 :: MachineLearning :: DEBUG :: logger set up. starting the application...
+2015-07-21 09:57:40,696 :: MachineLearning :: DEBUG :: initializing the application
+2015-07-21 09:57:40,780 :: MachineLearning :: INFO :: Successfully loaded guesser from file.
+2015-07-21 09:57:45,975 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-21 09:57:52,686 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-21 09:58:06,152 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-21 09:58:39,246 :: MachineLearning :: DEBUG :: logger set up. starting the application...
+2015-07-21 09:58:39,246 :: MachineLearning :: DEBUG :: initializing the application
+2015-07-21 09:58:39,380 :: MachineLearning :: INFO :: Successfully loaded guesser from file.
+2015-07-21 09:58:42,037 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-21 09:59:10,423 :: MachineLearning :: DEBUG :: logger set up. starting the application...
+2015-07-21 09:59:10,423 :: MachineLearning :: DEBUG :: initializing the application
+2015-07-21 09:59:10,507 :: MachineLearning :: INFO :: Successfully loaded guesser from file.
+2015-07-21 09:59:30,742 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-21 09:59:42,704 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-21 10:00:07,102 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-21 10:01:27,166 :: MachineLearning :: DEBUG :: logger set up. starting the application...
+2015-07-21 10:01:27,166 :: MachineLearning :: DEBUG :: initializing the application
+2015-07-21 10:01:27,257 :: MachineLearning :: INFO :: Successfully loaded guesser from file.
+2015-07-21 10:01:45,519 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-23 08:36:18,746 :: MachineLearning :: DEBUG :: logger set up. starting the application...
+2015-07-23 08:36:18,757 :: MachineLearning :: DEBUG :: initializing the application
+2015-07-23 08:36:19,677 :: MachineLearning :: INFO :: Successfully loaded guesser from file.
+2015-07-23 08:36:47,067 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-23 08:37:32,818 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-23 14:23:27,536 :: MachineLearning :: DEBUG :: logger set up. starting the application...
+2015-07-23 14:23:27,536 :: MachineLearning :: DEBUG :: initializing the application
+2015-07-23 14:23:27,558 :: MachineLearning :: DEBUG :: logger set up. starting the application...
+2015-07-23 14:23:27,558 :: MachineLearning :: DEBUG :: initializing the application
+2015-07-23 14:23:27,689 :: MachineLearning :: INFO :: Successfully loaded guesser from file.
+2015-07-23 14:23:27,710 :: MachineLearning :: INFO :: Successfully loaded guesser from file.
+2015-07-23 14:24:02,571 :: MachineLearning :: DEBUG :: logger set up. starting the application...
+2015-07-23 14:24:02,571 :: MachineLearning :: DEBUG :: initializing the application
+2015-07-23 14:24:02,678 :: MachineLearning :: INFO :: Successfully loaded guesser from file.
+2015-07-23 14:26:56,481 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-23 14:27:16,383 :: MachineLearning :: DEBUG :: logger set up. starting the application...
+2015-07-23 14:27:16,383 :: MachineLearning :: DEBUG :: initializing the application
+2015-07-23 14:27:16,486 :: MachineLearning :: INFO :: Successfully loaded guesser from file.
+2015-07-23 14:45:52,719 :: MachineLearning :: DEBUG :: logger set up. starting the application...
+2015-07-23 14:45:52,720 :: MachineLearning :: DEBUG :: initializing the application
+2015-07-23 14:45:52,840 :: MachineLearning :: INFO :: Successfully loaded guesser from file.
+2015-07-23 14:46:30,885 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-23 15:07:26,169 :: MachineLearning :: DEBUG :: logger set up. starting the application...
+2015-07-23 15:07:26,169 :: MachineLearning :: DEBUG :: initializing the application
+2015-07-23 15:07:26,272 :: MachineLearning :: INFO :: Successfully loaded guesser from file.
+2015-07-23 15:09:15,504 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-23 15:10:42,421 :: MachineLearning :: INFO :: generating random song and associated guess
+2015-07-24 12:58:02,905 :: MachineLearning :: DEBUG :: logger set up. starting the application...
+2015-07-24 12:58:02,906 :: MachineLearning :: DEBUG :: initializing the application
+2015-07-24 12:58:03,013 :: MachineLearning :: INFO :: Successfully loaded guesser from file.
+2015-07-29 11:22:50,251 :: MachineLearning :: DEBUG :: logger set up. starting the application...
+2015-07-29 11:22:50,251 :: MachineLearning :: DEBUG :: initializing the application
+2015-07-29 11:22:50,353 :: MachineLearning :: INFO :: Successfully loaded guesser from file.
+2015-07-30 11:14:13,997 :: MachineLearning :: DEBUG :: logger set up. starting the application...
+2015-07-30 11:14:13,998 :: MachineLearning :: DEBUG :: initializing the application
+2015-07-30 11:14:14,116 :: MachineLearning :: INFO :: Successfully loaded guesser from file.
+2015-08-03 16:04:20,523 :: MachineLearning :: DEBUG :: logger set up. starting the application...
+2015-08-03 16:04:20,523 :: MachineLearning :: DEBUG :: initializing the application
+2015-08-03 16:04:20,625 :: MachineLearning :: INFO :: Successfully loaded guesser from file.
